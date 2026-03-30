@@ -71,12 +71,4 @@ python kmeans_clustering.py
 
 ---
 
-## 👨‍💻 Author
 
-**Your Name** — [@your-username](https://github.com/your-username)
-
----
-
-## 📄 License
-
-Open-source under the [MIT License](LICENSE).
